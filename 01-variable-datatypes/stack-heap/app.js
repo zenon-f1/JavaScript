@@ -13,4 +13,5 @@ console.log(name, newName);
 
 let newPerson = person;
 newPerson.name = 'Harry';
-console.log(person, newPerson); // values changed at both the positions
+console.log(person, newPerson);
+ // values changed at both the positions
